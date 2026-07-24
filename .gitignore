@@ -1,0 +1,5 @@
+.env  
+chroma_db/  
+cloned_repo/  
+__pycache__/ 
+data/test_chroma_db/
